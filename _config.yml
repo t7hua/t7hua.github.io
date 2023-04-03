@@ -258,8 +258,8 @@ scholar:
   #last_name: [Hua, Hua*]
   #first_name: [Ting]
 
-  last_name: [Ting]
-  first_name: [Hua, Hua*]
+  last_name: Hua
+  first_name: Ting
 
   style: apa
   locale: en
