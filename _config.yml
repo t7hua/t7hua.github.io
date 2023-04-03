@@ -255,8 +255,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   # last name and first name seems to be inccorect
-  last_name: [Ting]
-  first_name: [Hua]
+  last_name: [Hua, Hua*]
+  first_name: [Ting]
 
   style: apa
   locale: en
