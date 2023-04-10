@@ -25,7 +25,7 @@ My publications grouped by topic:
 [ICLR2022a](/publications/#hsu2022language), 
 [ICLR2022a](/publications/#lou2022dictformer), 
 [CVPR2022](/publications/#lou2022lite)]
-- Network Architecture Search(NAS) [[IJCAI2021](/publications/#zhao2021automatic)]
+- Network Architecture Search [[IJCAI2021](/publications/#zhao2021automatic)]
 - Continual Learning  [[NAACL2021](/publications/#hua2022hyperparameter)]
 - Topical Modeling [[TKDD2020](/publications/#hua2020probabilistic), [IJCAI2018](/publications/#hua2018social), [AAAI2016](/publications/#hua2016topical)]
-- event detection [ [CIKM2016](/publications/#hua2016automatical), [GeoInformatica2016](/publications/#hua2016automatic), [KDD2014](/publications/#ramakrishnan2014beating), [KDD2013](/publications/#hua2013sted)]
+- event detection [ [CIKM2016](/publications/#hua2016automatical), [GeoInformatica2016](/publications/#hua2016automatic), [KDD2014](/publications/#ramakrishnan2014beating), [KDD2014](/publications/#ramakrishnan2014beating)[KDD2013](/publications/#hua2013sted)]
