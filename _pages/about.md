@@ -5,7 +5,7 @@ permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
 
 news: false
