@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true
 ---
 
-I'm a research scientist at Samsung Research America. At Samsung, I worked on topics including: model compression, continuous learning, and automatic speech recognition (ASR). 
+I'm a research scientist at Samsung Research America. At Samsung, I worked on topics including: model compression, continual learning, and automatic speech recognition (ASR). 
 Before joining Samsung, my research interests were probabilistic graphical models (e.g., LDA) and deep generative models (e.g., VAE), with applications on social media data and low-resource language data.
 I received my Ph.D. from Virgina Tech in 2017 on machine learning and data mining. 
 
