@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Solo trip in Yosemite National Park, 2022 Nov</p>
+    <p>Self-discovery trip in 2022 Nov</p>
+    <p> at Yosemite National Park</p>
 
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
