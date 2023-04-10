@@ -26,5 +26,5 @@ My publications grouped by topic:
 [ICLR2022a](/publications/#lou2022dictformer), 
 [CVPR2022](/publications/#lou2022lite), [IJCAI2021](/publications/#zhao2021automatic)]
 - Continual Learning  [[NAACL2021](/publications/#hua2022hyperparameter)]
-- Topical Modeling [[TKDD2020](/publications/#hua2020probabilistic), [IJCAI2018](/publications/#hua2018social), [AAAI2016](/publications/#hua2016topical),[CIKM2016](/publications/#hua2016automatical)]
-- Event Detection [ [GeoInformatica2016](/publications/#hua2016automatic), [PloSone2014](/publications/#zhao2014unsupervised),[KDD2014](/publications/#ramakrishnan2014beating), [KDD2013](/publications/#hua2013sted)]
+- Topical Modeling [[TKDD2020](/publications/#hua2020probabilistic), [IJCAI2018](/publications/#hua2018social), [AAAI2016](/publications/#hua2016topical), [CIKM2016](/publications/#hua2016automatical)]
+- Event Detection [ [GeoInformatica2016](/publications/#hua2016automatic), [PloSone2014](/publications/#zhao2014unsupervised), [KDD2014](/publications/#ramakrishnan2014beating), [KDD2013](/publications/#hua2013sted)]
