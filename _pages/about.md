@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    
+    <p>2023 March, in an infinity mirror room</p>
 
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
