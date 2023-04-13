@@ -4,11 +4,13 @@ title: About
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
+#<p>The photo was taken in an infinity mirror room in March 2023.</p>
+
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>The photo was taken in an infinity mirror room in March 2023.</p>
+    
 
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
