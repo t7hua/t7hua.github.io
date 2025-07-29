@@ -25,7 +25,7 @@ I received my Ph.D. from Virgina Tech in 2017.
 
 My selected publications grouped by topic:
 
-- Model Compression [[EMNLP2022](/publications/#hua2022numerical),
+- Model Compression [[NAACL2024](/publications/#gao2024adaptive), [EMNLP2022](/publications/#hua2022numerical),
 [ICLR2022a](/publications/#hsu2022language), 
 [ICLR2022b](/publications/#lou2022dictformer), 
 [CVPR2022](/publications/#lou2022lite), [IJCAI2021](/publications/#zhao2021automatic)]
