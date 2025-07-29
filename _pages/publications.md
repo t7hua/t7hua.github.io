@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications 
 description: <u><a href='https://scholar.google.com/citations?user=ynA-x2wAAAAJ&hl'>Google Scholar</a></u> contains a more complete list of my publications. &#* indicates equal contribution. 
-years: [2022, 2021, 2020, 2018, 2016, 2014, 2013]
+years: [2024, 2023, 2022, 2021, 2020, 2018, 2016, 2014, 2013]
 nav: true
 ---
 <!-- _pages/publications.md -->
