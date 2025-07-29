@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+gem 'bundler', '~> 2.3.0'
+gem 'uri', '~> 0.10.1'  # Pin to the version available in the GitHub Actions environment
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
